@@ -2,7 +2,7 @@
 layout: page
 title: Wind Buoy
 description: 
-img: /img/windbuoyHD.jpg
+img: /whagain/img/windbuoyHD.jpg
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/windbuoyHD.jpg" alt="" title="Wind Buoy"/>
