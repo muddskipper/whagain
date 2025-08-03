@@ -2,7 +2,7 @@
 layout: page
 title: Strata Various
 description: 
-img: /img/strata_variousHD.jpg
+img: /whagain/img/strata_variousHD.jpg
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/strata_variousHD.jpg" alt="" title="Strata Various"/>
