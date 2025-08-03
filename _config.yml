@@ -3,7 +3,7 @@ title: *WindyHillArt
 email: 2oppenheimers@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Kinetic sculpture park on Lummi Island, WA
-baseurl:  # the subpath of your site, e.g. /blog/
+baseurl: /whagain/  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 twitter_username: twitter_username
 github_username:  github_username
