@@ -2,7 +2,7 @@
 layout: page
 title: Hygrometus I & II
 description: 
-img: /img/hygrometus1wet.jpg
+img: /whagain/img/hygrometus1wet.jpg
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/hygrometus1wet.jpg" alt="" title="Hygrometus I"/>
