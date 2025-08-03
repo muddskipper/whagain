@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img class="col port right" src="/img/mikepic.JPEG">
+<img class="col port right" src="{{ site.baseurl }}/img/mikepic.JPEG">
 
 <br/>
 During his childhood on an isolated cattle ranch high in the Rocky Mountains of Southwest Colorado, making play with the available common natural stuff of mountain life, Michael Oppenheimer came to appreciate the limitless connectedness of all that is.
