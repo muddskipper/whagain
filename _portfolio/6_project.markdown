@@ -2,7 +2,7 @@
 layout: page
 title: Douglas
 description: 
-img: /whagain/img/douglasHD.png
+img: /img/douglasHD.png
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/douglasHD.png" alt="" title="Douglas"/>
