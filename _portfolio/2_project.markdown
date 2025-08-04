@@ -2,7 +2,7 @@
 layout: page
 title: Clavichord
 description: 
-img: /whagain/img/clavichordHD.jpg
+img: /img/clavichordHD.jpg
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/clavichordHD.jpg" alt="" title="Clavichord"/>
