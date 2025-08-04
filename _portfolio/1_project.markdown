@@ -2,7 +2,7 @@
 layout: page
 title: Chimelines
 description: 
-img: /whagain/img/chimelinesHD.jpg
+img: /img/chimelinesHD.jpg
 ---
 
 <img class="col three" src="{{ site.baseurl }}/img/chimelinesHD.jpg" alt="" title="Chimelines" />
